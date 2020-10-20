@@ -14,7 +14,7 @@ vector<string> split(const string &);
  */
 
 string whoIsTheWinner(vector<int> arr) {
-    // WRITE DOWN YOUR CODE HERE
+     var emailId = "ruchirtoshniwal450@gmail.com"
      unordered_map<int, int>map1;
     for(int i=0;i<arr.size();i++)
     {
